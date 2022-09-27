@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input.on {
+  background-color: #7cb192;
+  border: 2px solid #7cb192;
+}
+
+input.off {
+  background-color: #ece7ee;
+  border: 2px solid #ece7ee;
+}
+
+form {
+  margin: 0 auto;
+}
+
+form input {
+  height: 3rem;
+  width: 75%;
+  margin: auto auto;
+}
+
+form button {
+  width: 20%;
+  padding: 1rem 0;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
